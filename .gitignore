@@ -19,12 +19,6 @@ __pycache__/
 .idea/
 *.swp
 
-# Donnees (regenerables)
-data/raw/*.parquet
-data/processed/*.parquet
-data/processed/*.npy
-data/models/*.joblib
-data/models/*.csv
 
 # OS
 .DS_Store
